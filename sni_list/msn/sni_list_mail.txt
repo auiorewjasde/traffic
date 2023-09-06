@@ -1,0 +1,16 @@
+outlook.live.com
+firefox.settings.services.mozilla.com
+az725175.vo.msecnd.net
+ow2.res.office365.com
+content-signature-2.cdn.mozilla.net
+www.clarity.ms
+shavar.services.mozilla.com
+r4.res.office365.com
+push.services.mozilla.com
+snippets.cdn.mozilla.net
+incoming.telemetry.mozilla.org
+safebrowsing.googleapis.com
+www.mozilla.org
+firefox-settings-attachments.cdn.mozilla.net
+normandy.cdn.mozilla.net
+classify-client.services.mozilla.com

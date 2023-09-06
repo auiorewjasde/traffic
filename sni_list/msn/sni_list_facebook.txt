@@ -1,0 +1,12 @@
+www.facebook.com
+firefox.settings.services.mozilla.com
+static.xx.fbcdn.net
+facebook.com
+content-signature-2.cdn.mozilla.net
+shavar.services.mozilla.com
+push.services.mozilla.com
+www.mozilla.org
+snippets.cdn.mozilla.net
+incoming.telemetry.mozilla.org
+safebrowsing.googleapis.com
+firefox-settings-attachments.cdn.mozilla.net

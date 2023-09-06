@@ -1,0 +1,12 @@
+mail.yahoo.com
+firefox.settings.services.mozilla.com
+s.yimg.com
+udc.yahoo.com
+content-signature-2.cdn.mozilla.net
+shavar.services.mozilla.com
+push.services.mozilla.com
+www.mozilla.org
+snippets.cdn.mozilla.net
+incoming.telemetry.mozilla.org
+login.yahoo.com
+safebrowsing.googleapis.com

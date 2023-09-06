@@ -1,0 +1,11 @@
+www.bing.com
+firefox.settings.services.mozilla.com
+content-signature-2.cdn.mozilla.net
+push.services.mozilla.com
+shavar.services.mozilla.com
+snippets.cdn.mozilla.net
+incoming.telemetry.mozilla.org
+aus5.mozilla.org
+www.mozilla.org
+firefox-settings-attachments.cdn.mozilla.net
+safebrowsing.googleapis.com

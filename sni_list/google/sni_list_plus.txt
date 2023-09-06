@@ -1,0 +1,15 @@
+plus.google.com
+firefox.settings.services.mozilla.com
+accounts.google.com
+content-signature-2.cdn.mozilla.net
+push.services.mozilla.com
+shavar.services.mozilla.com
+www.mozilla.org
+snippets.cdn.mozilla.net
+www.gstatic.com
+incoming.telemetry.mozilla.org
+fonts.gstatic.com
+accounts.youtube.com
+play.google.com
+www.google.com
+safebrowsing.googleapis.com

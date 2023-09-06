@@ -1,0 +1,17 @@
+www.microsoft.com
+firefox.settings.services.mozilla.com
+content-signature-2.cdn.mozilla.net
+shavar.services.mozilla.com
+c.s-microsoft.com
+cdn-dynmedia-1.microsoft.com
+mem.gfx.ms
+wcpstatic.microsoft.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+www.mozilla.org
+push.services.mozilla.com
+snippets.cdn.mozilla.net
+fpt.microsoft.com
+incoming.telemetry.mozilla.org
+browser.events.data.microsoft.com
+safebrowsing.googleapis.com
+firefox-settings-attachments.cdn.mozilla.net
